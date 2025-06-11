@@ -15,7 +15,13 @@ Whether you're just starting out or looking to pivot into product — this repo 
 
 ## 🗂️ Folder Structure
 
-COMING SOON
+| Folder | Description |
+|--------|-------------|
+| 📊 [`/SQL-Practice/`](./SQL-Practice) | Real-world SQL questions + solutions |
+| 🔍 [`/Product-Case-Studies/`](./Product-Case-Studies) | Teardowns, redesigns, feature suggestions |
+| 📝 [`/Mini-PRDs/`](./Mini-PRDs) | 1-page product specs based on real apps |
+| 📈 [`/KPI-Metrics/`](./KPI-Metrics) | Funnel analysis, mock A/B tests, retention metrics |
+| 📚 [`Resources.md`](./Resources.md) | Curated list of books, articles, and learning tools |
 
 ## ✅ Sample Work
 
